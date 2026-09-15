@@ -1,4 +1,4 @@
-# ACPM — Altas Capacidades Project Manager
+# ACPM - Altas Capacidades Project Manager
 
 Sistema de gestión de proyectos informáticos diseñado específicamente para equipos con Altas Capacidades Cognitivas (AACC).
 
